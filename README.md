@@ -1,6 +1,7 @@
 
 
-# Payment Integrations Repository
+# Payment Integrations
+## by demithehomie
 
 Welcome to the Payment Integrations Repository! This repository aims to provide developers with comprehensive guides and examples for integrating various payment APIs into their applications. The content is updated every Saturday with new integrations and features.
 
