@@ -54,8 +54,7 @@ const corsOptions = {
     origin: function (origin, callback) {
       if (!origin || [
         'http://localhost:5173',
-        // Add other trusted origins here
-        'https://guerratool.com'
+        
       ].includes(origin)) {
         callback(null, true);
       } else {
