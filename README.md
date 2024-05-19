@@ -5,10 +5,10 @@
 
 Welcome to the Payment Integrations Repository! This repository aims to provide developers with comprehensive guides and examples for integrating various payment APIs into their applications. The content is updated every Saturday with new integrations and features.
 
-## Table of Contents
+## Table of Contents - CHECK OUT THE BRANCHES
 - [Introduction](#introduction)
 - [Integration Guides](#integration-guides)
-  - [18/05/2024 - Mercado Pago - PIX](#18052024---mercado-pago---pix)
+  - [18/05/2024 - Mercado Pago - PIX](#18052024---mercado-pago---pix) 
   - [24/05/2024 - Binance - Pay With Crypto](#24052024---binance---pay-with-crypto)
   - [31/05/2024 - Stripe - Credit Cards](#31052024---stripe---credit-cards)
   - [07/06/2024 - Mercado Pago - Credit Cards](#07062024---mercado-pago---credit-cards)
@@ -17,7 +17,7 @@ Welcome to the Payment Integrations Repository! This repository aims to provide 
 
 ## Introduction
 
-This repository is dedicated to helping developers integrate payment solutions into their projects. Each guide includes detailed instructions, code examples, and best practices to ensure seamless payment processing.
+This repository is dedicated to helping developers integrate payment solutions into their projects. Each guide includes detailed instructions, code examples, and best PRACTICESto ensure seamless payment processing.
 
 ## Integration Guides
 
